@@ -7294,7 +7294,7 @@ body,
   .section-caption {
     gap: 12px;
 
-    font-size: 9px;
+    font-size: 12px;
   }
 
   .eyebrow i,
@@ -7615,7 +7615,7 @@ body,
   }
 
   .testimonial-quote {
-    top: 185px;
+    top: 105px;
 
     inset-inline-end: 18px;
 
