@@ -7615,7 +7615,7 @@ body,
   }
 
   .testimonial-quote {
-    top: 105px;
+    top: 160px;
 
     inset-inline-end: 18px;
 
